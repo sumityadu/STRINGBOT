@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXSTRINGBOT&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagexdd&repo=STRINGBOT&theme=flag-india)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXSTRINGBOT/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝖬𝖱.𝖣𝖠𝖷𝖷](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+[![GIF](https://github.com/Sagexdd/STRINGBOT/blob/main/Sagexdd.gif)](https://github.com/Sagexdd)
+   [![𝖬𝖱.𝖣𝖠𝖷𝖷](https://github-stats-alpha.vercel.app/api?username=Sagexdd "SYNAXX")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "SYNAXX")
                   
 
 
@@ -17,15 +17,15 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXSTRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sagexdd/STRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
   
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagexdd&show_icons=true&locale=en&layout=compact" alt="Sagexdd" /></p>
 
 
 
 ### Contact :
-<a href="https://t.me/iam_daxx"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/ig_synax"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thebotolbaba@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/iam_daxx"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
