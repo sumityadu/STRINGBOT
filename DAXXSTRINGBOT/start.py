@@ -19,15 +19,15 @@ async def start(bot: Client, msg: Message):
 𝖥𝖴𝖫𝖫𝖸 𝖲𝖠𝖥𝖤 & 𝖲𝖤𝖢𝖴𝖱𝖤.
 𝖭𝖮  𝖤𝖱𝖱𝖮𝖱.
 
-𝖬𝐚𝐝𝐞 𝖡𝐲  : [SAGE](tg://user?id={OWNER_ID}) !""",
+𝖬𝐚𝐝𝐞 𝖡𝐲  : [❍⏤͟͞🫧 ⃪ 𝗡𝙴𝚇𝚉 ⃪͢🍷𝆺꯭𝅥༎𓆪](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤 𝖲𝖳𝖱𝖨𝖭𝖦", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton(" 𝖲upport", url="https://t.me/sage_bot_support"),
-                    InlineKeyboardButton("𝖮wner", url="https://t.me/sage_xd")
+                    InlineKeyboardButton(" 𝖲upport", url="https://t.me/nexz_support"),
+                    InlineKeyboardButton("𝖮wner", url="https://t.me/nexzz_op")
                 ]
             ]
         ),
